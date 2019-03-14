@@ -39,30 +39,31 @@ Contato: 98840-8061
 
  FORMAÇÃO
  
-   -Ensino Superior em Sistema de Informação, cursando 5º período.
-   -Canvas pela FM2s.
-   -Linguagem de Programação JAVA, pela Udemy Cursos online.
-   -Orientação a objeto JAVA, pela Udemy Cursos online.
-   -Curso de Programação JAVA para Android, pela Udemy Cursos online.
-   -Curso de JAVA Essencial para desenvolvimento Android, pela Udemy Cursos online.
-   -Curso aprendendo a programar em JAVA, pela Udemy Cursos online.
-   -Curso completo de Banco de Dados e SQL, sem misterios, pela Udemy Cursos online
-   -Curso completo de criação de Apps Android e iOS com Flutter, pela Udemy Cursos online
-   -Curso JSF – Java Server Faces 2.2, pela Udemy Cursos Online
-   -Curso Git e GitHub, pela Udemy Cursos OnLine
+   Ensino Superior em Sistema de Informação, cursando 5º período.
+   Canvas pela FM2s.
+   Linguagem de Programação JAVA, pela Udemy Cursos online.
+   Orientação a objeto JAVA, pela Udemy Cursos online.
+   Curso de Programação JAVA para Android, pela Udemy Cursos online.
+   Curso de JAVA Essencial para desenvolvimento Android, pela Udemy Cursos online.
+   Curso aprendendo a programar em JAVA, pela Udemy Cursos online.
+   Curso completo de Banco de Dados e SQL, sem misterios, pela Udemy Cursos online
+   Curso completo de criação de Apps Android e iOS com Flutter, pela Udemy Cursos online
+   Curso JSF – Java Server Faces 2.2, pela Udemy Cursos Online
+   Curso Git e GitHub, pela Udemy Cursos OnLine
     
   IDIOMAS
   
-   Fluência em inglês (nível avançado para leitura, conversação e escrita). 
+  Fluência em inglês (nível avançado para leitura, conversação e escrita). 
     
   INFORMAÇÕES EXTRAS
   
-   Carteira de habilitação B
-   Montagem e manutenção de Computadores
-   Link dos Certificados: https://www.dropbox.com/sh/wle771pddp90av8/ AABGfT2_CV41oRsfYScYjTIra?dl=0
-   Domínio em pacote ADOBE completo
-   Link GitHub: https://github.com/ZeRoColdma	
+  Carteira de habilitação B
+  Montagem e manutenção de Computadores
+  Link dos Certificados: https://www.dropbox.com/sh/wle771pddp90av8/ AABGfT2_CV41oRsfYScYjTIra?dl=0
+  Domínio em pacote ADOBE completo
+  Link GitHub: https://github.com/ZeRoColdma	
 
   REFERÊNCIAS
-    Dannielle Barbosa (Supervisora Colcci) – (98) 98817-4852 
-    Rodrigo Monteiro ( Professor Curso de Sistemas de Informação ) – (88) 998062088
+  
+  Dannielle Barbosa (Supervisora Colcci) – (98) 98817-4852 
+  Rodrigo Monteiro ( Professor Curso de Sistemas de Informação ) – (88) 998062088
