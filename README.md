@@ -37,18 +37,19 @@ Contato: 98840-8061
    -Cargo: Gerente de vendas. Coordenação de equipe de 10 pessoas, para efetuação de vendas tendo em vista metas mensais a serem atingidas, viagem para fabrica para realização de pedidos de acordo com a coleção da estação. Elaboração das folhas de pagamento. Pagamentos dos funcionários da loja. Calculo de comissões para cada funcionário. Planejamento de Curvas A,B,C de estoque para rotação de itens da loja. Abertura e fechamento de caixa diariamente e mensalmente. Envio de remessas para matriz em Teresina-PI. Realização de cursos e capacitação de funcionários.
 
 
- FORMAÇÃO 
-    -Ensino Superior em Sistema de Informação, cursando 5º período.
-    -Canvas pela FM2s.
-    -Linguagem de Programação JAVA, pela Udemy Cursos online.
-    -Orientação a objeto JAVA, pela Udemy Cursos online.
-    -Curso de Programação JAVA para Android, pela Udemy Cursos online.
-    -Curso de JAVA Essencial para desenvolvimento Android, pela Udemy Cursos online.
-    -Curso aprendendo a programar em JAVA, pela Udemy Cursos online.
-    -Curso completo de Banco de Dados e SQL, sem misterios, pela Udemy Cursos online
-    -Curso completo de criação de Apps Android e iOS com Flutter, pela Udemy Cursos online
-    -Curso JSF – Java Server Faces 2.2, pela Udemy Cursos Online
-    -Curso Git e GitHub, pela Udemy Cursos OnLine
+ FORMAÇÃO
+ 
+   -Ensino Superior em Sistema de Informação, cursando 5º período.
+   -Canvas pela FM2s.
+   -Linguagem de Programação JAVA, pela Udemy Cursos online.
+   -Orientação a objeto JAVA, pela Udemy Cursos online.
+   -Curso de Programação JAVA para Android, pela Udemy Cursos online.
+   -Curso de JAVA Essencial para desenvolvimento Android, pela Udemy Cursos online.
+   -Curso aprendendo a programar em JAVA, pela Udemy Cursos online.
+   -Curso completo de Banco de Dados e SQL, sem misterios, pela Udemy Cursos online
+   -Curso completo de criação de Apps Android e iOS com Flutter, pela Udemy Cursos online
+   -Curso JSF – Java Server Faces 2.2, pela Udemy Cursos Online
+   -Curso Git e GitHub, pela Udemy Cursos OnLine
     
   IDIOMAS
   
