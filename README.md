@@ -71,7 +71,7 @@ Contato: 98840-8061
   
   Montagem e manutenção de Computadores
   
-  Link dos Certificados: https://www.dropbox.com/sh/wle771pddp90av8/ AABGfT2_CV41oRsfYScYjTIra?dl=0
+  Link dos Certificados: https://www.dropbox.com/sh/wle771pddp90av8/AABGfT2_CV41oRsfYScYjTIra?dl=0
   
   Domínio em pacote ADOBE completo
   
